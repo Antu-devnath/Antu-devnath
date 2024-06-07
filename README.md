@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Antu-devnath</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antu-devnath" alt="antu-devnath" /></a> </p>
-
 - 🔭 I’m currently working on **C++**
 
 - 🌱 I’m currently learning **C#,.net fremwork**
